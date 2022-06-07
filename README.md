@@ -19,4 +19,6 @@ Alert Tab
 When user has not signed up
 <img src="https://github.com/Harsh23Kashyap/Licious-Project/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-06-07%20at%2016.35.28.png" width="300" height="600">
 Demo Home Page
+<img src="https://github.com/Harsh23Kashyap/Licious-Project/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20Max%20-%202022-06-07%20at%2016.35.57.png" width="300" height="600">
+
 <img src="" width="300" height="600">
